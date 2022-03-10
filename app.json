@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "Find-By-Image",
+    "slug": "Find-By-Image",
+    "version": "1.0.9012",
+    "description":"SDK 44.x",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {"image": "./assets/splash.png","resizeMode": "cover","backgroundColor": "#ecfeff"},
+    "updates": {"fallbackToCacheTimeout": 0},
+    "assetBundlePatterns": ["**/*"],
+    "ios": {"bundleIdentifier": "com.testuser.findbyimage","buildNumber": "1.0.0","supportsTablet": true},
+    "android": {"package": "com.testuser.findbyimage","versionCode": 1,"adaptiveIcon":{"foregroundImage":"./assets/adaptive-icon.png","backgroundImage":"./assets/adaptive-icon-background.png","backgroundColor":"#ffffff"}},
+    "web": {"favicon": "./assets/favicon.png"}
+  }
+}
